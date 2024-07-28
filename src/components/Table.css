@@ -1,0 +1,26 @@
+/* TableComponent.css */
+.table-container {
+    padding-top: 100px;
+    padding-left: 140px;
+  }
+  
+  .dashboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    padding-left: 50px;
+  }
+  
+  .dashboard-table th,
+  .dashboard-table td {
+    border: 3px solid #52596f;
+    padding: 10px;
+  }
+  
+  .dashboard-table th {
+    background-color: #968888;
+    text-align: center;
+  }
+  .add{
+    font-size: 20px;
+    padding-top: 15px;
+  }
