@@ -8,6 +8,7 @@ export const Login = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    alert("Login successful")
     navigate('/Dashboard');
   };
 
